@@ -20,5 +20,13 @@ print(a[0])
 print(a[-2])
 print(a[4])
 #slice operators
+name ='nage reddy law'
+print(name[0:-2])
+print(name[0:3])
+
 #len function
+place='yderaad'
+print(len(place))
 #positive indexing and negative indexing
+a='indiaanjuyre  juyf'
+print(a[0:-4])
